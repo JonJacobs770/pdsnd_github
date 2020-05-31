@@ -2,7 +2,7 @@
 This project was created on the 30 May 2020.
 
 ### Project Title
-Replace the Project Title
+Git Command Documentation
 
 ### Description
 Describe what your project is about and what it does
