@@ -11,5 +11,5 @@ In this project, both a GitHub repository local repository was created. A repo f
 The files used in this project: bikeshare.py and the csv files.
 
 ### Credits
-Thanks to Udacity for the course.
+Thanks to Udacity for the course and skills learnt.
 
